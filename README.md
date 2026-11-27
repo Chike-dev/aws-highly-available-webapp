@@ -24,7 +24,7 @@ The project is framed around a realistic business problem. "ShopEase", a growing
 
 ---
 
-## Why this project matters
+## Purpose and use cases
 
 Almost every internet-facing application eventually hits the same wall: a single server cannot stay up and keep up at the same time. The moment traffic is unpredictable, one machine is both an availability risk (if it dies, the site is down) and a performance risk (if it is overwhelmed, the site is slow). This project builds the standard AWS answer to that problem, a pattern you can drop under almost any web workload to make it survive failure, scale with demand, and report when something is wrong, all without someone watching it by hand.
 
